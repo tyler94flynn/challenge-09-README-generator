@@ -32,7 +32,7 @@
   - Use the command "node index.js" in your CLI, and answer all the prompts.
   - Once you have answered all the prompts, you can locate your created README.mde file in the "utils" folder.
 
-  [Demo of installation and usage]()
+  [Demo of installation and usage](https://i.imgur.com/NWvblBC.mp4)
 
   ## License ![License](https://img.shields.io/badge/License-MIT-yellow.svg) [MIT](https://opensource.org/licenses/MIT)
 
